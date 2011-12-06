@@ -1,0 +1,16 @@
+groupslist:
+- default
+- group1
+- group2
+
+groups:
+   default: 0
+   group1: 500
+   group2: 1000
+
+# These lists are ordered from lowest rank to highest rank.
+# If you change default make sure you change it to the group
+# that your users enter when they join the server
+# or this plugin will not work. Group names must match
+# the group names in your permissions.yml file
+# or ranking up will not function properly.

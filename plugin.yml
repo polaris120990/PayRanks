@@ -1,0 +1,10 @@
+name: PaidRanks
+main: me.polaris120990.PayRanks.PayRanks
+version: 1.0
+author: polaris120990
+description: >
+             Ranks a player up for money.
+depend: [Vault]
+commands:
+   rankup:
+      description: Ranks you up if you can afford it.

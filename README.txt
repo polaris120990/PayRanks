@@ -1,0 +1,1 @@
+A Bukkit Plugin which allows users to pay to rank up. See dev.bukkit.org for more details.
